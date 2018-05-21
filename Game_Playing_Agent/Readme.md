@@ -1,0 +1,1 @@
+This project creates a two-player game playing agent in Java implementing the minimax algorithm with alpha-beta pruning to compete against the computer agent. Agent looks 5 moves ahead of its current move to maximizing its chance of winning.
